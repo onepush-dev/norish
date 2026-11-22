@@ -2,7 +2,7 @@
 
 [Norish](https://github.com/norish-recipes/norish) (AGPL-3.0): a realtime, family-friendly recipe app. Import recipes from websites, YouTube, Instagram or photos, plan meals on a calendar and share a synced grocery list. Deploy it on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/LFhog4)
 
 ## What this template runs (all official images, unmodified)
 - **norish**: `norishapp/norish:v0.27.0-beta`, public on port 3000, volume `/app/uploads`, health check `/api/v1/health/live`.
